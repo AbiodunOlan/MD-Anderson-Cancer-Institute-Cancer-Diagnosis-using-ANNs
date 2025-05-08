@@ -1,8 +1,6 @@
 # MD-Anderson-Cancer-Institute-Cancer-Diagnosis-using-ANNs
 
 
-# MD-Anderson-Cancer-Institute-Cancer-Diagnosis-using-ANNs
-
 🧠 Cancer Diagnosis Using Artificial Neural Networks (ANNs)
 This project demonstrates how Artificial Neural Networks (ANNs) can be used to accurately diagnose cancer using radiological data. The implementation uses TensorFlow/Keras to build and evaluate a deep learning model, simulating a deployment for the MD Anderson Cancer Institute.
 
